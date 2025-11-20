@@ -15,7 +15,5 @@ Halo nama saya **Angga Qomaruzzaman** mahasiswa smester 1 Fakultas **Teknik Info
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white "/> <img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white "/>
 
-![Angga's GitHub stats](https://github-readme-stats.vercel.app/api?username=anggaqomaruzzaman)
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
